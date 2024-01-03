@@ -1,7 +1,8 @@
 Téléchargement du projet :
 
 Téléchargez le projet en cliquant sur "Code" sur GitHub, puis sur "Download ZIP". Ou bien, 
-utilisez la commande git clone https://github.com/ASSAADBENHAMED/Unites_react-native.git 
+utilisez la commande git
+clone https://github.com/ASSAADBENHAMED/Unites_react-native.git 
 
 dans le terminal de VSCode pour cloner le dépôt.
 Installation des dépendances :
